@@ -1,4 +1,5 @@
 # Cyclistic Bike Share Analysis with Weather Integration
+![Cyclistic-logo](https://github.com/ridwansukri/cyclistic-bike-share-with-weather/blob/main/cyclistic-logo.png)
 
 ## Introduction
 This project is a fictional case study conducted as a capstone project for the Tetris Program Batch 3. The main goal is to showcase my technical skills in AWS, SQL, Python, and Tableau, as well as a data analyst approach to a case.

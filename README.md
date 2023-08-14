@@ -66,7 +66,7 @@ The trained model is stored as "best_model.cbm", facilitating future predictions
 2. Ensure you have the necessary libraries installed.
 3. Setup aws credentials and make all AWS resources have IAM role that allow services that you want
 4. Run the Notebook.
-(Add more detailed steps if necessary)
+5. Make sure you've created AWS Lambda and created tables on Redshift.
 
 ## License & Acknowledgements
 This project is licensed under the MIT License. 
